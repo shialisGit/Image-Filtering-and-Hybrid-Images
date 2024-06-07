@@ -1,8 +1,6 @@
-package uk.ac.soton.ecs.hybridimages;
-
 import org.openimaj.image.MBFImage;
 import org.openimaj.image.processing.resize.ResizeProcessor;
-import uk.ac.soton.ecs.cs1e21.hybridimages.MyConvolution;
+import MyConvolution;
 
 import java.util.ArrayList;
 
