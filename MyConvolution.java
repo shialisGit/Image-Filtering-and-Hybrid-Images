@@ -1,5 +1,3 @@
-package uk.ac.soton.ecs.cs1e21.hybridimages;
-
 import org.openimaj.image.FImage;
 import org.openimaj.image.processor.SinglebandImageProcessor;
 
